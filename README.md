@@ -1,13 +1,3 @@
-"""---
-title: Agentic AI Customer Support Intelligence Platform
-emoji: 🤖
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.28.1
-app_file: app.py
-pinned: true
----
 
 # Agentic AI Customer Support Intelligence Platform
 Portfolio Project by **Koushik Samudrala**
@@ -114,13 +104,13 @@ Your app will be available at http://localhost:8501
 
 ### Step 6: Try Example Questions
 
-.  "Can I return my order?"
+- "Can I return my order?"
 
-. "How long does shipping take?"
+- "How long does shipping take?"
 
-.  "What's your refund policy?"
+-  "What's your refund policy?"
 
-.  "Is there a warranty?"
+-  "Is there a warranty?"
 
 ###  Step 7:  Automated Test (Optional)
 ```bash
@@ -157,57 +147,46 @@ Value: your_gemini_api_key
 D. Wait for Build, Test UI
 
 ## 📂 Project Structure
-'''
+```bash
 customer-support-Intelligence-platform/
-
 ├── mcplib.py             # MCP message bus for agent comms
-
 ├── agents.py             # All agent logic (message-driven)
-
 ├── rag_pipeline.py       # RAG chunking, embedding, and retrieval
-
 ├── knowledge_graph.py    # Knowledge graph definition and access
-
 ├── evaluation.py         # Response quality and risk assessment
-
 ├── config.py             # All settings in one place
-
 ├── app.py                # Streamlit user interface
-
 ├── requirements.txt      # Dependency manifest for pip
-
 ├── .env.example          # Secrets template
-
 └── tests/
-
      └── test_system.py   # Automated agent QA
-'''
+```
 
 ### 💡 Notable Achievements
 
-  Multi-agent orchestration via explicit messaging for auditability and scalability
+- Multi-agent orchestration via explicit messaging for auditability and scalability
   
-  Zero credit card required, $0 cloud cost for demo and production deployment
+-  Zero credit card required, $0 cloud cost for demo and production deployment
   
-  Professional UI and deployment pipeline for instant sharing and usage
+-  Professional UI and deployment pipeline for instant sharing and usage
   
-  Extensible architecture: Swap agent logic, add new integrations, scale to new domains with minimal effort
+-  Extensible architecture: Swap agent logic, add new integrations, scale to new domains with minimal effort
   
-  Prompt engineering and API integration: Real-world chatbot reliability
+-  Prompt engineering and API integration: Real-world chatbot reliability
 
 ### 📚 Additional Learning Resources
 
-  LangChain Documentation
+ - LangChain Documentation
   
-  Google Gemini API Docs
+ - Google Gemini API Docs
   
-  Streamlit Docs
+ - Streamlit Docs
   
-  ChromaDB
+ - ChromaDB
   
-  Hugging Face Spaces
+ - Hugging Face Spaces
   
-  NetworkX 
+ - NetworkX 
 
 ### 📣 Contact
 
