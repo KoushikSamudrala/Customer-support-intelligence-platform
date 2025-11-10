@@ -1,6 +1,12 @@
 
 # Agentic AI Customer Support Intelligence Platform
 Portfolio Project by **Koushik Samudrala**
+![Customer Support App UI](assets/streamlit_interface.JPG)
+
+![Query Example](assets/response.JPG)
+
+
+
 
 🔗 **Live Demo on Hugging Face Spaces**
 
