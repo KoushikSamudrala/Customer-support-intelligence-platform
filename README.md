@@ -15,7 +15,7 @@ Portfolio Project by **Koushik Samudrala**
 ---
 
 ## 🚀 Overview
-This project is a production-ready, multi-agent customer support AI platform built as a modular and scalable demonstrator for agentic AI architecture. It showcases explicit MCP-style (Model Context Protocol) agent communication, cutting-edge retrieval augmented generation (RAG), advanced LLM integration (Gemini API), and state-of-the-art orchestration—all designed and deployed by **Koushik Samudrala**.
+This project is a production-ready, multi-agent customer support AI platform built as a modular and scalable demonstrator for agentic AI architecture. It showcases explicit MCP-style (Model Context Protocol) agent communication, cutting-edge retrieval augmented generation (RAG), advanced LLM integration (Gemini API), and state-of-the-art orchestration—all designed and deployed.
 
 ### Key Specialties
 - Custom multi-agent system using explicit message-passing (no direct function calls)
